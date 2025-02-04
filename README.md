@@ -74,8 +74,30 @@
     - Access modifiers help secure your code by limiting access to variables and methods.
     - Instance variables are tied to individual objects, whereas class variables are shared among all objects of the class.
 ## 04-02-2025
--**Topic Covered:** 
-  - this
-  - static
-  - final
-  - instanceof operator
+# Topics Covered
+
+## `this` Keyword
+- Refers to the current object instance.
+- Used to differentiate instance variables from parameters.
+- Can be used to invoke current class constructors.
+- Helps pass the current object as a parameter to methods.
+- Useful for returning the current class instance.
+
+## `static` Keyword
+- Used for memory management and shared properties.
+- Can be applied to variables, methods, blocks, and nested classes.
+- Static members belong to the class rather than instances.
+- Static methods can be called without creating an object.
+- Static blocks are executed once when the class is loaded.
+
+## `final` Keyword
+- Used to declare constants, prevent method overriding, and restrict inheritance.
+- A final variable cannot be reassigned after initialization.
+- A final method cannot be overridden by subclasses.
+- A final class cannot be extended.
+
+## `instanceof` Operator
+- Used to test whether an object is an instance of a specific class or subclass.
+- Returns `true` if the object belongs to the given type, otherwise `false`.
+- Helps prevent `ClassCastException` by ensuring safe type casting.
+
