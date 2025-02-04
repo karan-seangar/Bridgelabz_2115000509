@@ -73,3 +73,9 @@
     - Constructors are essential for object initialization, and understanding constructor chaining is crucial.
     - Access modifiers help secure your code by limiting access to variables and methods.
     - Instance variables are tied to individual objects, whereas class variables are shared among all objects of the class.
+## 04-02-2025
+-**Topic Covered:** 
+  - this
+  - static
+  - final
+  - instanceof operator
