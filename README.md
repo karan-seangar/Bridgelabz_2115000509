@@ -102,13 +102,13 @@
 - Helps prevent `ClassCastException` by ensuring safe type casting.
 
 ## 06-02-2025
-## UML Diagram : The UML (Unified Modeling Language) diagram below provides a visual representation of the system's structure and behavior. It helps in understanding the relationships between different components, classes, and modules.
+# UML Diagram
 - Class Diagram 
 - Object Diagram
 - Sequence Diagram
-# Relationship
-- Association 
-- Aggregation 
-- Composition 
-- Inheritance 
-- Dependency 
+- Relationship
+  - Association 
+  - Aggregation 
+  - Composition 
+  - Inheritance 
+  - Dependency 
