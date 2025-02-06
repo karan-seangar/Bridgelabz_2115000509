@@ -102,19 +102,13 @@
 - Helps prevent `ClassCastException` by ensuring safe type casting.
 
 ## 06-02-2025
-## UML Diagram
-- The UML (Unified Modeling Language) diagram below provides a visual representation of the system's structure and behavior. It helps in understanding the relationships between different components, classes, and modules.
-# Diagram Types
+## UML Diagram : The UML (Unified Modeling Language) diagram below provides a visual representation of the system's structure and behavior. It helps in understanding the relationships between different components, classes, and modules.
 - Class Diagram 
-  - A Class Diagram represents the static structure of a system. It shows the system's classes, their attributes, methods, and 
-   relationships (e.g., inheritance, associations, dependencies).
 - Object Diagram
-  - An Object Diagram represents a snapshot of objects (instances of classes) at a particular moment. It shows how objects are related at    runtime.
 - Sequence Diagram
-  - A Sequence Diagram represents the flow of messages between objects over time. It is useful for visualizing interactions in a scenario.
 # Relationship
-- Association (solid line) → Shows a connection between classes.
-- Aggregation (hollow diamond) → A whole-part relationship where parts can exist independently.
-- Composition (filled diamond) → A strong whole-part relationship where parts cannot exist without the whole.
-- Inheritance (arrow with an empty triangle) → Represents the "is-a" relationship.
-- Dependency (dashed arrow) → One class depends on another.
+- Association 
+- Aggregation 
+- Composition 
+- Inheritance 
+- Dependency 
